@@ -1,3 +1,15 @@
-the components are modal, accordion, dropdown,etc 
-tech stack- javaScript ,css, Html. no frameworks, no libararies 
-this project consist of reuseable website components that wont have to be built from scratch everytime.
+## Components 
+- [x] Modal - this is a web functionality that is used to display a pop up 
+- [ ] Accordion
+- [ ] Dropdown
+
+## Usage 
+To view demos, open the HTML files in the `demos/` folder and open with live server.
+
+### Modal 
+Click "Open Modal" to see the modal pop up. You can close it by clicking the X button, clicking outside the modal, or pressing the Escape key.
+
+## Tech Stack 
+JavaScript, CSS, HTML 
+
+
